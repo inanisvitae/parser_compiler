@@ -1,0 +1,13 @@
+//NAME: ZIQI HONG
+//NETID: zh7
+
+This is a standard java project. The main method is in
+CompilerMain.java. The bash file is 412alloc, which will
+make the invoke of the method easier.
+
+Extract the source code into .jar file and use the bash file
+to run the .jar file with standard stream
+for example:
+ ./412alloc -h
+./412alloc -x code_check_2/cc1.i
+./412alloc 7 code_check_2/cc2.i
